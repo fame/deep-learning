@@ -144,3 +144,5 @@ iterations = 100
 learning_rate = 0.1
 hidden_nodes = 2
 output_nodes = 1
+
+#rtest
